@@ -1,0 +1,5 @@
+/* Basic reset and theming */
+:root { color-scheme: light dark; }
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body { margin: 0; }
